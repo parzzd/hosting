@@ -1,0 +1,21 @@
+[
+    {
+      "upcoming": "Empieza en 4 dias",
+      "title": "3-2-1 Plank",
+      "time": "15 minutos",
+      "imagePath": "../assets/images/ejercicio-1.jpg"
+    },
+    {
+      "upcoming": "Empieza en 1 dia",
+      "title": "Cardio HIIT Blast",
+      "time": "20 minutos",
+      "imagePath": "../assets/images/ejercicio-3.jpg"
+    },
+    {
+      "upcoming": "Empieza en 4 dias",
+      "title": "Yoga Restaurativo",
+      "time": "40 minutos",
+      "imagePath": "../assets/images/ejercicio-6.jpg"
+    }
+  ]
+  

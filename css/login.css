@@ -1,0 +1,35 @@
+.image-modal-login{
+    max-height: 15px;
+}
+
+
+body{
+    background-color: rgb(244, 229, 213);
+}
+
+
+.image-modal{
+    max-width: 100%;
+}
+
+.btn-modal{
+    background-color: rgb(255, 0, 59);
+    border-color: rgb(255, 0, 59);
+    width: 10em;
+}
+
+.btn-modal:hover{
+    background-color: white;
+    border-color: rgb(255, 0, 59);
+    color: rgb(255, 0, 59);
+}
+
+.myBtn{
+    align-items: center;
+}
+
+ .container-her{
+    padding-left: 10em;
+    padding-right: 10em;
+    background-size: cover;
+}

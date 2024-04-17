@@ -1,0 +1,22 @@
+[
+
+  {
+    "upcoming": "Empieza en 2 dias",
+    "title": "Power Yoga Flow",
+    "time": "30 minutos",
+    "imagePath": "../assets/images/ejercicio-2.jpg"
+  },  
+  {
+    "upcoming": "Empieza en 3 dias",
+    "title": "Piernas Fuertes",
+    "time": "25 minutos",
+    "imagePath": "../assets/images/ejercicio-4.jpg"
+  }, 
+  {
+    "upcoming": "Empieza en 1 dia",
+    "title": "Cardio HIIT Blast",
+    "time": "20 minutos",
+    "imagePath": "../assets/images/ejercicio-3.jpg"
+  }
+
+]

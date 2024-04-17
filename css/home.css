@@ -1,0 +1,146 @@
+body{
+    background-color: rgb(243, 233, 226);
+}
+
+.container-fluid{
+    padding: 0 10vw;
+}
+
+/*Carousel*/
+.carousel-inner{
+    min-height: 30vh;
+}
+
+.carousel-title{
+    font-size: 2.5em;
+    font-family: 'poppins';
+}
+
+.carousel-text{
+    font-size: larger;
+    font-family: 'poppins';
+}
+
+.image-container {
+    display: flex;
+    align-items: center;
+  }
+
+.especialistas-image,
+.carousel-image{
+    max-height: 40vh;
+    min-height: 40vh;
+    min-width: 40vh; 
+}
+
+
+/*Especialistas*/
+.container-especialistas{
+    max-height: 30vh;
+}
+
+
+.container-herramientas{
+        background-size: auto;
+        background-repeat: no-repeat;
+        text-align: justify;
+        padding: 125px;
+}
+
+h2{
+    color: #1DD75BFF;
+    font-family: 'Poppins';
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 48px;
+    top: 37px;
+    left:345px;
+
+}
+
+.btn-comienza{
+    border-color: #6D31EDFF;
+    color: #6D31EDFF;
+    font-family:'Poppins';
+    top: 28px;
+    left: 1162px;
+    width: 228px;
+    height: 42px;
+    padding: 0 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins';
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #6D31EDFF;
+    background: #FFFFFFFF;
+    opacity: 1;
+    border-radius: 21px;
+    border-width: 1px;
+    border-color: #6D31EDFF;
+    border-style: solid;
+
+}
+
+.text-herramientas{
+    color: white;
+    font-weight: bold;
+    font-family: 'poppins';
+}
+
+.container-herramienta{
+    background-color: rgb(128, 217, 15);
+    border-radius: 100%;
+    max-width: 12em;
+    max-height: 12em;
+    min-width: 12em;
+    min-height: 12em;
+    margin-bottom: 1em;
+}
+
+.image-receta{
+    height: 200px;
+    width: 100%;
+}
+
+
+.card-text{
+    font-size: 12px;
+    font-weight: 100;
+    font-family: 'poppins';
+}
+
+.card-receta{
+    max-width: 300px;
+    min-height: 300px;
+    padding: 0;
+}
+.btn-body{
+    width: 337px;
+    height: 68px;    
+    align-items: center;
+    justify-content: center;
+    font-family: 'Poppins';
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 400;
+    color: #FFFFFFFF;
+    background: #6D31EDFF;
+    opacity: 2;
+    border: none;
+    border-radius: 34px;
+}
+
+.image-especialista{
+    width: 27%;
+    padding-bottom: 10px;
+}
+.im-especi-txt{
+    font-size: 20px;
+    font-family: 'poppins';
+}
+p,h3{
+    font-family: 'poppins';
+}

@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(248, 239, 235);
+}
+
+.image-receta{
+    height: 200px;
+    width: 100%;
+}
+
+
+.card-text{
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.card-receta{
+    max-width: 300px;
+    min-height: 300px;
+    padding: 0;
+}
+
+.btn-card{
+    background-color: rgb(255, 1, 60);
+    border-radius: 0px;
+    color: white;
+    font-size: large;
+    font-weight: bolder;
+}
+
+h1{
+    color: rgb(15, 171, 13);
+    font-weight: bold;
+}
+
+
+.img-nutri{
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    height: 100%;
+}
+.btn-primary{
+    background-color: rgb(255, 0, 59);
+    border-color: rgb(255, 0, 59);
+   }
+   .btn-primary:hover{
+    background-color: white;
+    color:rgb(255, 0, 59);
+    border-color: rgb(255, 0, 59);
+   
+   }
+
+
+   .cheat{
+    object-fit: contain;
+    object-position: center;
+    width: 80%;
+   }
+
+   
+@media (max-width: 767px) {
+    .cheat {
+      width: 120%;
+      margin-left: -2em;
+    }
+}
+  

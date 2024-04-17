@@ -1,0 +1,46 @@
+footer {
+    background-color: rgb(189, 226, 211);
+}
+
+body,
+body a {
+    font-family: 'Rubik'; 
+    color: black;
+    text-decoration: none;
+    text-align: left;
+  }
+
+h3 {
+    font-size: 20px;
+    padding-bottom: 0.5em;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+p{
+    font-size: 14px;
+}
+
+.copyright,
+.copyright a{
+    font-family: 'Epilogue'; 
+    color: rgb(144, 149, 162); 
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.img-logo{
+    background-color: rgb(189, 226, 211);
+    border: 0px;
+}
+
+.socials img{
+    max-width: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.img-thumbnail{
+    max-width: 100px;
+}

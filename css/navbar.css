@@ -1,0 +1,41 @@
+.container-fluid{
+    padding: 0 10vw;
+}
+
+nav{
+    background-color: rgb(248, 239, 235);
+}
+
+nav li{
+    color: rgb(144, 149, 162);
+}
+
+nav .active{
+    color: rgb(255, 0, 59);
+    font-weight: bolder;
+}
+
+
+
+.image-logo{
+    max-width: 70px;
+}
+
+.btn{
+    border-radius: 2em;
+}
+.navbar{
+    box-shadow: 2px 5px 5px rgba(255,0,59, 0.65);
+    
+    
+}
+.navbar-nav .nav-item:hover .nav-link{
+    color: rgb(255,0,59);
+}
+.navbar-nav .nav-item{
+    font-size: 22px;
+}
+
+.btn-nav{
+    font-size:larger;
+}
